@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import Graph from "graphology";
 import Sigma from "sigma";
-import "./App.css";
+import './assets/styles/App.css';
 
 function App() {
   // Create a ref to hold the container for the Sigma renderer
